@@ -16,4 +16,3 @@ agents:
 allowed_remote_resources:
     - https://raw.githubusercontent.com/fullsend-ai/fullsend/
     - https://raw.githubusercontent.com/fullsend-ai/agents/
-    - https://raw.githubusercontent.com/fullsend-ai-test/bt-01a1d33c6532740096c8ff1b012ea764-e573af1f-base-harness-host/
